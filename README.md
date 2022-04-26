@@ -23,13 +23,15 @@ Step 6: open google page using Implicit Intents and display factorial number usi
 Step 7: Save and run the application.
 
 ## PROGRAM:
-```java
+```
 /*
 Program to print the text “Implicit Intents”.
 Developed by:Kumaran.B
 Registeration Number :212220230026
 */
+```
 ### MainActivity.java
+```java
 package com.example.exp2implicit;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -64,7 +66,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
     }
+    ```
 ### activity_main.xml
+```java
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
