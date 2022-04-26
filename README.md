@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     }
-    ```
+```
 ### activity_main.xml
 ```java
 <?xml version="1.0" encoding="utf-8"?>
