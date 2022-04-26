@@ -26,8 +26,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Implicit Intents”.
-Developed by:Kumaran.B
-Registeration Number :212220230026
+Developed by:Kumaravel.v
+Registeration Number :212220230027
 */
 ```
 ### MainActivity.java
