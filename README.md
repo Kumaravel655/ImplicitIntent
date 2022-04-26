@@ -22,8 +22,8 @@ Step 6: open google page using Implicit Intents and display factorial number usi
 
 Step 7: Save and run the application.
 
-##PROGRAM:
-```
+## PROGRAM:
+```java
 /*
 Program to print the text “Implicit Intents”.
 Developed by:Kumaran.B
