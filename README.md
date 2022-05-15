@@ -3,7 +3,7 @@
 # <p align="center"> ImplicitIntent</p>
 
 ## AIM:
-To create a layout,click button,open google page using Implicit Intents and display factorial number using Explicit Intents in Android Studio.
+To create a layout,click button,open google page using Implicit Intents in Android Studio.
 
 ## EQUIPMENTS REQUIRED: 
 Android Studio(Min. required Artic Fox)
@@ -19,7 +19,7 @@ Step 4: Then select the Empty Activity and click Next. Finally click Finish.
 
 Step 5: Design layout in activity_main.xml.
 
-Step 6: open google page using Implicit Intents and display factorial number using Explicit Intents in MainActivity file.
+Step 6: open google page using Implicit Intents in MainActivity file.
 
 Step 7: Save and run the application.
 
@@ -116,4 +116,4 @@ public class MainActivity extends AppCompatActivity {
 
 ![image](https://user-images.githubusercontent.com/75235334/165319841-a07b9343-44b9-47f5-b6b3-2bca1ddff856.png)
 ## result
-Thus a Simple Android Application to open google page using Implicit Intents and display factorial of the same number using Explicit Intents using Android Studio is developed and executed successfully.
+Thus a Simple Android Application to open google page using Implicit Intents using Android Studio is developed and executed successfully.
