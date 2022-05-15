@@ -1,4 +1,7 @@
-# ImplicitIntent
+### EX NO: 02(a)
+### DATE: 
+# <p align="center"> ImplicitIntent</p>
+## Problem
 Develop program to create a text field and a button “Navigate”. When you enter “www.google.com” and press navigate button it should open google page using Implicit Intents and to create two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 
 ## AIM:
