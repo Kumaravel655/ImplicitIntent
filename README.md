@@ -1,13 +1,10 @@
 ### EX NO: 02(a)
 ### DATE: 
 # <p align="center"> ImplicitIntent</p>
-
 ## AIM:
 To create a layout,click button,open google page using Implicit Intents in Android Studio.
-
 ## EQUIPMENTS REQUIRED: 
 Android Studio(Min. required Artic Fox)
-
 ## ALGORITHM: 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
